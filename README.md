@@ -11,8 +11,8 @@
 
 <div align="center">
 <img width="90%"  height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
-  <img width="49%" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
-  <img width="41%"  height="200px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
+  <img width="49%" height="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
+  <img width="41%"  height="400px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
 </div>
 
 ### Main skills:
@@ -45,4 +45,4 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+97258441705)&nbsp; -->
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;](https://t.me/mindisakey) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
