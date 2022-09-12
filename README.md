@@ -34,7 +34,8 @@
  </div>
  
  <div align="left" style="display: flex; justife-content: column;">
-  ### Contacts
-<p>nikitaperkovskij@gmail.com</p>
-  <p>linkedin.com/in/nikita-perkovskiy-805816215</p>
+  <ul>Contacts
+<li>nikitaperkovskij@gmail.com</li>
+<li>linkedin.com/in/nikita-perkovskiy-805816215</li>
+  </ul>
 </div>
