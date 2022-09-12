@@ -9,8 +9,8 @@
   <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
 </div> -->
 
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita Perkovskiy&theme=default" alt="#"/>
+<div align="center">
+<img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita Perkovskiy&theme=default" alt="#"/>
 </div>
 
 ### Main skills:
