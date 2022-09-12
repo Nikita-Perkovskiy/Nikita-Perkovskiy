@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=97979700&width=435&lines=+Nikita+Perkovskiy+-+frontend+developer" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
   <img width="90%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=gruvbox" alt="Nikita Perkovskiy github stats" /> 
@@ -29,9 +31,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/artemshchirov/express-around-back)&nbsp;
 
-### Contacts
+ </div>
+ 
+ <div align="right">
+  ### Contacts
 <p>nikitaperkovskij@gmail.com</p>
 <p>linkedin.com/in/nikita-perkovskiy-805816215</p>
-
- </div>
-
+</div>
