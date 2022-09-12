@@ -33,8 +33,8 @@
 
  </div>
  
- <div align="right">
+ <div align="left">
   ### Contacts
-<p>nikitaperkovskij@gmail.com</p>
-<p>linkedin.com/in/nikita-perkovskiy-805816215</p>
+##nikitaperkovskij@gmail.com
+##linkedin.com/in/nikita-perkovskiy-805816215
 </div>
