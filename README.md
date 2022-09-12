@@ -1,19 +1,13 @@
-<!-- <div align="center">  
-  <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ArtemShchirov&theme=react-dark&hide_border=true&area=true" />
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ArtemShchirov&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="ArtemShchirov github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemShchirov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemShchirov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Artem Shchirov" />
-</div>
-
-<div align="center">  
-  <img height="40px" width="400px" src="https://www.codewars.com/users/Artemeow/badges/large" alt="Codewars badge" />
-</div> -->
-
 <div align="center">
-<img width="90%"  height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
-  <img width="45%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
-  <img width="45%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=97979700&width=435&lines=+Nikita+Perkovskiy+-+frontend+developer)](https://git.io/typing-svg)
+<img width="100%"  height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
+  <img width="50%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
+  <img width="50%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
   
+  <div align="center">  
+  <img height="40px" width="400px" src="https://www.codewars.com/users/Nikita-Perkovskiy/badges/large " alt="Codewars badge" />
+</div>
+ 
 ### Main skills:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/artemshchirov/how-to-learn)&nbsp;
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/artemshchirov/russian-travel)&nbsp;
