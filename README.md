@@ -10,7 +10,9 @@
 </div> -->
 
 <div align="center">
-<img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita Perkovskiy&theme=default" alt="#"/>
+<img width="90%"  height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
+  <img width="49%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
+  <img width="41%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
 </div>
 
 ### Main skills:
