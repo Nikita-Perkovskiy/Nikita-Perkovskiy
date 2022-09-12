@@ -1,11 +1,10 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=97979700&width=435&lines=+Nikita+Perkovskiy+-+frontend+developer" alt="Typing SVG" /></a>
+
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=97979700&width=435&lines=+Nikita+Perkovskiy+-+frontend+developer" alt="Typing SVG" /></a>
-  <img width="45%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
-  <img width="45%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
- 
-  <div align="center">  
-  <img height="40px" width="400px" src="https://www.codewars.com/users/Nikita-Perkovskiy/badges/large " alt="Codewars badge" />
-</div>
+  <img width="90%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=gruvbox" alt="Nikita Perkovskiy github stats" /> 
+  <img width="45%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=gruvbox" alt="#"/>
+   <img width="45%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=gruvbox" alt="#"/>
+   
  
 ### Main skills:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/artemshchirov/how-to-learn)&nbsp;
@@ -29,6 +28,10 @@
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/introduction/getting-started)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/artemshchirov/express-around-back)&nbsp;
-  
+
+### Contacts
+<p>nikitaperkovskij@gmail.com</p>
+<p>linkedin.com/in/nikita-perkovskiy-805816215</p>
+
  </div>
 
