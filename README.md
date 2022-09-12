@@ -33,8 +33,8 @@
 
  </div>
  
- <div align="left" style="display: flex; justife-content: column;">
-  <ul>Contacts
+ <div align="left" style="display: flex; justife-content: column; margin-top: 80px;">
+  <ul>Contacts:
 <li>nikitaperkovskij@gmail.com</li>
 <li>linkedin.com/in/nikita-perkovskiy-805816215</li>
   </ul>
