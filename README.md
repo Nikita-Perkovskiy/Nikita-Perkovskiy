@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" margin-bottom="70px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&background=97979700&center=true&vCenter=true&width=435&lines=+Nikita+Perkovskiy+-+;+frontend+developer" alt="Typing SVG" /></a>
 </div>
 
@@ -33,7 +33,7 @@
 
  </div>
  
- <div align="left" style="display: flex; justife-content: column; margin-top: 80px;">
+ <div align="left" margin-top="80px">
   <ul>Contacts:
 <li>nikitaperkovskij@gmail.com</li>
 <li>linkedin.com/in/nikita-perkovskiy-805816215</li>
