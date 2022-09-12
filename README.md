@@ -1,9 +1,8 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=97979700&width=435&lines=+Nikita+Perkovskiy+-+frontend+developer)](https://git.io/typing-svg)
-<img width="100%"  height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
-  <img width="50%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
-  <img width="50%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
-  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=97979700&width=435&lines=+Nikita+Perkovskiy+-+frontend+developer" alt="Typing SVG" /></a>
+  <img width="45%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="Nikita Perkovskiy github stats" /> 
+  <img width="45%"  height="auto"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikita-Perkovskiy&theme=nord_bright" alt="#"/>
+ 
   <div align="center">  
   <img height="40px" width="400px" src="https://www.codewars.com/users/Nikita-Perkovskiy/badges/large " alt="Codewars badge" />
 </div>
