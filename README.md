@@ -41,7 +41,7 @@
  
  <div align="left" margin-top="80px">
   <ul>Contacts:
-<li>nikitaperkovskij@gmail.com</li>
-<li>linkedin.com/in/nikita-perkovskiy-805816215</li>
+<li><a href="nikitaperkovskij@gmail.com" target="blank"></></a>nikitaperkovskij@gmail.com</li>
+    <li><a href="linkedin.com/in/nikita-perkovskiy-805816215" target="blank"></a>linkedin.com/in/nikita-perkovskiy-805816215</li>
   </ul>
 </div>
